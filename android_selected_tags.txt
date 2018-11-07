@@ -17,4 +17,6 @@ android-5.1.1_r9:22
 android-6.0.1_r9:23
 android-7.0.0_r7:24
 android-7.1.2_r9:25
-android-8.0.0_r9:26
+android-8.0.0_r36:26
+android-8.1.0_r48:27
+android-9.0.0_r9:28
